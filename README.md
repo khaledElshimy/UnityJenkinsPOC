@@ -1,2 +1,2 @@
 # UnityJenkinsPOC
-This is aproof of concept for unity jenkins CI/CD
+This is a proof of concept for unity jenkins CI/CD
